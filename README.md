@@ -1,5 +1,5 @@
 # ws_pingtime
 
-run
+## run
 
 `go run main.go -logtostderr -stderrthreshold=INFO`
